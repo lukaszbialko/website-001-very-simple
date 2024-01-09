@@ -9,6 +9,8 @@ body {
     background-color: #222;
 }
 
+/* nav  */
+
 .nav {
     height: 50px;
     background-color: #333;
@@ -33,5 +35,46 @@ body {
 }
 
 .nav-item a:hover {
-    color: rgb(0, 195, 255);
+    color: rgb(255, 72, 0);
+}
+
+/* header  */
+
+.header-img {
+    position: relative;
+    height: 400px;
+    background-image: url('../img/mountains-1587287_1920.jpg');
+    background-size: cover;
+    background-position: bottom;
+}
+
+.header-text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    z-index: 5;
+    text-shadow: 0 0 5px #000;
+}
+
+.header-text h1 {
+    font-size: 54px;
+    letter-spacing: 2px;
+}
+
+.header-text h1 span {
+    text-transform: uppercase;
+    color: rgb(255, 72, 0);
+}
+
+.header-text p {
+    font-size: 22px;
+}
+
+.header-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(21, 31, 26, 0.5);
 }
