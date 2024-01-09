@@ -78,3 +78,31 @@ body {
     height: 100%;
     background-color: rgba(21, 31, 26, 0.5);
 }
+
+/* footer  */
+
+footer {
+    height: 80px;
+    background-color: #333;
+    font-weight: bold;
+}
+
+footer a {
+    margin: 0 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    transition: color .3s;
+}
+
+footer a:hover {
+    color: rgb(255, 72, 0);
+}
+
+footer p {
+    line-height: 80px;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+}
