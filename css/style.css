@@ -171,6 +171,22 @@ table tr td {
     background-color: #2a2a2a;
 }
 
+/* contact  */
+
+.contact {
+    font-weight: bold;
+    text-align: center;
+}
+
+.contact p {
+    font-size: 22px;
+    padding: 10px;
+}
+
+.contact i {
+    margin: 0 5px;
+}
+
 /* footer  */
 
 footer {
