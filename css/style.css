@@ -137,6 +137,14 @@ main h2 {
     background-color: rgba(0, 0, 0, 0.8)
 }
 
+/* services  */
+
+.services li {
+    width: 120px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
 /* footer  */
 
 footer {
