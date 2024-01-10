@@ -1,1 +1,1 @@
-My first website with course. It's really simple project for start.
+My first website with course. It's really simple project for start. No RWD.
