@@ -145,6 +145,32 @@ main h2 {
     font-size: 20px;
 }
 
+/* prices  */
+
+.prices {
+    margin: 0 auto;
+    width: 600px;
+    height: 370px;
+    background-color: #333;
+    border-radius: 20px;
+}
+
+table {
+    padding: 50px 10px;
+    margin: 0 auto;
+}
+
+table tr td {
+    padding: 15px 25px;
+    border: 1px solid #4e4646;
+}
+
+.top-table {
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #2a2a2a;
+}
+
 /* footer  */
 
 footer {
